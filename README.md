@@ -16,7 +16,7 @@ CSS (Bootstrap): Se utilizó Bootstrap para los estilos y la disposición de la 
 
 Instalación
 Clonar el repositorio:
-git clone https://github.com//chanchi3rickandmorty.git
+git clone https://github.com/Anjelisahori/EXAMEN4-DAE.git
 Instalar dependencias:
 Navega a la carpeta del proyecto e instala las dependencias utilizando npm o yarn.
 cd chanchi3rickandmorty
